@@ -1,0 +1,27 @@
+{
+  "name": "Tic Tac Toe | Base Mini App",
+  "short_name": "TicTacToe",
+  "description": "A simple Tic Tac Toe dApp for the Base network.",
+  "version": "1.0.0",
+  "app_id": "697ba5d97a620235c741a955",
+  "author": {
+    "name": "",
+    "url": ""
+  },
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "permissions": ["wallet", "network"],
+  "manifest_version": 1
+}
